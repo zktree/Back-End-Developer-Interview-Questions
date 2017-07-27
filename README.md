@@ -43,7 +43,7 @@
   1. [比尔盖茨式问题](#billgates)
   1. [代码示例问题](#snippets)
 
-####[[↑]](#toc) <a name='general'>通用问题:</a>
+#### [[↑]](#toc) <a name='general'>通用问题:</a>
 
 * 语言设计中空引用([null reference](http://programmers.stackexchange.com/questions/12777/are-null-references-really-a-bad-thing))的存在有什么问题？假设你想要将空引用的概念从你的首选语言中移除，可能导致什么结果？
 * 为什么函数式编程重要？什么时候适用函数式语言？
